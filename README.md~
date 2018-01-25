@@ -1,4 +1,3 @@
-=======================
 # README and Instructions
 =======================
 
@@ -10,7 +9,7 @@
 
 
 
-##Installing LAMP:
+## Installing LAMP:
 ================
 
 - $ sudo apt-get install tasksel
@@ -18,7 +17,7 @@
 - When asked: Enter the prompt for a MySQL root password. 
 
 
-##Installing Composer:
+## Installing Composer:
 ====================
 
 - $ php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
@@ -34,7 +33,7 @@
 
 
 
-###References:
+### References:
 ===========
 - Installing LAMP: https://goo.gl/SNKYha
 - Composer: https://getcomposer.org
